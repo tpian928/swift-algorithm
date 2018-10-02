@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+//print(Sort.bubbleSort(array: [6,8,1,10,22,45,0,23]))
+print(Sort.selectSort(array: [6,8,1,10,22,45,0,23]))
 
